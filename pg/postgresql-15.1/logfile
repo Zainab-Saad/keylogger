@@ -1,9 +1,0 @@
-2024-09-06 11:44:12.230 MDT [31559] LOG:  starting PostgreSQL 15.1 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
-2024-09-06 11:44:12.230 MDT [31559] LOG:  listening on IPv4 address "127.0.0.1", port 5432
-2024-09-06 11:44:12.232 MDT [31559] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
-2024-09-06 11:44:12.237 MDT [31562] LOG:  database system was shut down at 2024-09-06 11:44:12 MDT
-2024-09-06 11:44:12.241 MDT [31559] LOG:  database system is ready to accept connections
-2024-09-06 11:49:12.337 MDT [31560] LOG:  checkpoint starting: time
-2024-09-06 11:49:21.973 MDT [31560] LOG:  checkpoint complete: wrote 99 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=9.624 s, sync=0.007 s, total=9.636 s; sync files=53, longest=0.002 s, average=0.001 s; distance=417 kB, estimate=417 kB
-2024-09-06 11:54:13.073 MDT [31560] LOG:  checkpoint starting: time
-2024-09-06 11:54:14.295 MDT [31560] LOG:  checkpoint complete: wrote 13 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.208 s, sync=0.008 s, total=1.222 s; sync files=12, longest=0.004 s, average=0.001 s; distance=38 kB, estimate=379 kB
