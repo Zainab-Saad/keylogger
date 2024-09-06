@@ -1,6 +1,9 @@
 chmod +x install_db.sh
+
 ./install_db.sh
+
 chmod +x code_runner.sh
+
 ./code_runner.sh
 
 

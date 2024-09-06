@@ -5,3 +5,5 @@
 2024-09-06 11:44:12.241 MDT [31559] LOG:  database system is ready to accept connections
 2024-09-06 11:49:12.337 MDT [31560] LOG:  checkpoint starting: time
 2024-09-06 11:49:21.973 MDT [31560] LOG:  checkpoint complete: wrote 99 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=9.624 s, sync=0.007 s, total=9.636 s; sync files=53, longest=0.002 s, average=0.001 s; distance=417 kB, estimate=417 kB
+2024-09-06 11:54:13.073 MDT [31560] LOG:  checkpoint starting: time
+2024-09-06 11:54:14.295 MDT [31560] LOG:  checkpoint complete: wrote 13 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.208 s, sync=0.008 s, total=1.222 s; sync files=12, longest=0.004 s, average=0.001 s; distance=38 kB, estimate=379 kB
