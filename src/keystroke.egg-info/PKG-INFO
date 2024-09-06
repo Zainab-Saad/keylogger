@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: keystroke
+Version: 0.1.0
+Summary: Keystroke logger with database integration
+Requires-Dist: psycopg2
+Requires-Dist: python-dotenv
+Requires-Dist: pynput

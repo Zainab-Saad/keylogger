@@ -1,0 +1,10 @@
+[project]
+name = "keystroke"
+version = "0.1.0"
+description = "Keystroke logger with database integration"
+
+dependencies = [
+    "psycopg2",
+    "python-dotenv",
+    "pynput"
+]
